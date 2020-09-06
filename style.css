@@ -1,0 +1,57 @@
+body {
+	font-family: Arial, sans-serif;
+	border: 1px #fff solid;
+	font-size: 16px;
+}
+
+img {
+	float: left;
+	margin-right: 50px;
+	margin-top: 25px;
+}
+
+h1 {
+	color: steelblue;
+	font-size: 34px;
+	text-shadow: 3px 2px 3px steelblue;
+	font-style: italic;
+}
+
+h1, h2 {
+	margin-top: 30px;
+}
+
+h2, h4 {
+	font-size: 20px;
+}
+
+h3 {
+	font-size: 26px;
+	margin-bottom: 20px;
+}
+
+h4, h5 {
+	line-height: 16px;
+}
+
+h5 {
+	font-size: 17px;
+}
+
+h5 a:link, h5 a:visited, ul li a:hover {
+	font-weight: bold;
+	color: maroon;
+}
+
+h5 a:hover, ul li a {
+	font-weight: bold;
+	color: steelblue;
+}
+
+ul li {
+	line-height: 25px;
+}
+
+.center {
+	text-align: center;
+}
